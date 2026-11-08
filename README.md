@@ -31,7 +31,8 @@ An original outback pokie with glowing opals, a kangaroo stampede and moonlit fr
 - **Four jackpots**: MINI, MINOR, MAJOR and GRAND (play money, local to your computer).
 - **Gamble** your win on a card's colour or suit, or switch the gamble off.
 - Smooth, satisfying reels with slam-stop, turbo, autoplay (with a loss limit), win celebrations from Nice Win to Mega Win, and all-original art, sound and music.
-- Fair by design: every result comes from a securely seeded random number generator and real reel strips, decided the moment you press Spin. Theoretical return: about 96.4%.
+- Fair by design: every result comes from a securely seeded random number generator and real reel strips, decided the moment you press Spin. Theoretical return: about 96.3%.
+- **Features land often**: Free Games about every 90 spins, Opal Lock about every 80 and the Stampede about every 60.
 - **Always know what you need**: badges beside the reels show the trigger for each mini game (3 Moons, 6 Opals).
 - Reels stop one at a time from left to right, just like a real machine, even when you slam-stop.
 - Full keyboard, mouse and controller support; fullscreen with F.
