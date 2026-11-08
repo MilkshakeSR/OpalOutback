@@ -25,13 +25,15 @@ An original outback pokie with glowing opals, a kangaroo stampede and moonlit fr
 ## Features
 
 - **5 reels, 50 paylines**, eight denominations from 1c to $2 and six bet levels.
-- **Moonlight Free Games**: 3+ Desert Moons win 8, 12 or 20 free games under a starry sky. Every Wild carries a x2, x3 or x5 multiplier, and multipliers on a line multiply together.
-- **Opal Lock**: land 6+ glowing opals to lock them in and win respins. Fill the screen for the **GRAND**.
+- **Moonlight Free Games**: land 3 Desert Moons for 6 free games (4 for 9, 5 for 12) under a starry sky. Every Wild carries a x2, x3 or x5 multiplier, and multipliers on a line multiply together.
+- **Opal Lock**: land 6 or more glowing opal cash coins to lock them in and win respins. Fill the screen for the **GRAND**.
 - **Stampede**: at any moment a mob of kangaroos can bound across the reels, leaving Wilds behind.
 - **Four jackpots**: MINI, MINOR, MAJOR and GRAND (play money, local to your computer).
 - **Gamble** your win on a card's colour or suit, or switch the gamble off.
 - Smooth, satisfying reels with slam-stop, turbo, autoplay (with a loss limit), win celebrations from Nice Win to Mega Win, and all-original art, sound and music.
-- Fair by design: every result comes from a securely seeded random number generator and real reel strips, decided the moment you press Spin. Theoretical return: about 96.6%.
+- Fair by design: every result comes from a securely seeded random number generator and real reel strips, decided the moment you press Spin. Theoretical return: about 96.4%.
+- **Always know what you need**: badges beside the reels show the trigger for each mini game (3 Moons, 6 Opals).
+- Reels stop one at a time from left to right, just like a real machine, even when you slam-stop.
 - Full keyboard, mouse and controller support; fullscreen with F.
 
 ## Requirements
